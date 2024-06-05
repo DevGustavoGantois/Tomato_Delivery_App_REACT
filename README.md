@@ -24,3 +24,6 @@
 <p>O projeto também está responsivo para telas menores e dispositívos móveis</p>
 
 ![image](https://github.com/DevGustavoGantois/Tomato_Delivery_App_REACT/assets/123424700/247c9545-b5f3-46c7-8174-2c57dcd2965c)
+
+
+<p>This project was developed using React, from which I gained considerable learning. I used hooks like useState, useEffect and StoreContext, among others. For CSS, I used the display: grid property, which I consider excellent for ensuring the application's responsiveness. The choice of the color orange was based on studies demonstrating its stimulating effect on appetite. Additionally, I used the react-router-dom Link tag for navigation between pages. I believe that this project has been a valuable contribution to my professional development.</p>
